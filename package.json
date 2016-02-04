@@ -1,0 +1,28 @@
+{
+  "name": "coffee-import-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader to transpile ES6 imports in CoffeeScript files.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schneidmaster/coffee-import-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "coffeescript",
+    "loader",
+    "import",
+    "es6"
+  ],
+  "author": "Zach Schneider <zach@schneid.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schneidmaster/coffee-import-loader/issues"
+  },
+  "homepage": "https://github.com/schneidmaster/coffee-import-loader#readme",
+  "peerDependencies": {
+    "webpack": "^1.12.6"
+  },
+  "dependencies": {
+    "coffee-import": "^1.0.0"
+  }
+}
