@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/coffee-import-loader.svg)](https://badge.fury.io/js/coffee-import-loader)
+
 # coffee-import-loader
 
 coffee-import-loader is a Webpack loader to transpile ES6 `import` statements in CoffeeScript files before they're passed to the CoffeeScript compiler.
